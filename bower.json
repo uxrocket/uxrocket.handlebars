@@ -1,0 +1,22 @@
+{
+  "name": "uxrocket.handlebars",
+  "version": "0.1.0",
+  "homepage": "https://github.com/uxrocket/uxrocket.handlebars",
+  "authors": [
+    "Bilal Çınarlı <bcinarli@gmail.com>"
+  ],
+  "description": "Handlebars Helper methods for UX Rocket templates",
+  "main": "lib/uxrocket.handlebars.js",
+  "keywords": [
+    "uxrocket",
+    "handlebars"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
